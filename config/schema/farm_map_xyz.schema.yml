@@ -1,0 +1,8 @@
+farm_map_xyz.settings:
+  type: config_object
+  label: 'XYZ Map Settings'
+  mapping:
+    xyz_url:
+      type: string
+      label: 'XYZ Map URL'
+      description: 'URL for XYZ Map Layer.'

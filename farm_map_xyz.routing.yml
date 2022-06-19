@@ -1,0 +1,7 @@
+farm_map_xyz.settings:
+  path: 'farm/settings/map/xyz'
+  defaults:
+    _form: '\Drupal\farm_map_xyz\Form\XyzSettingsForm'
+    _title: 'Xyz Map settings'
+  requirements:
+    _permission: 'administer farm map'

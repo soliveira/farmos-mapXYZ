@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_map_xyz
+id: xyz
+label: XYZMap
+description: 'Displays XYZ layers.'
+library: 'farm_map_xyz/xyz'
+settings: {  }

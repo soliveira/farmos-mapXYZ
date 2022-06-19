@@ -1,0 +1,6 @@
+xyz:
+  js:
+    js/farmOS.map.behaviors.xyz.js: { }
+  dependencies:
+    - core/drupalSettings
+    - farm_map/farmOS-map
